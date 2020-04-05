@@ -1,7 +1,7 @@
 
 # Nakamoto_Classifier
  
-A model that can classify Nakamoto ramen deep neural network models.
+A system that can classify Nakamoto ramen using a deep neural network model created from scratch
 
 In this system, you can choose "Alexnet","VGG11" or "simplenet" as a CNN model.
  
