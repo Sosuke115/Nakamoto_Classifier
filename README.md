@@ -42,8 +42,9 @@ python train.py --file_path dataset --model alexnet
 # Author
  
 * Sosuke
+* website : https://sosuke115.github.io
 * Twitter : https://twitter.com/ponyo_ponyo115
-* Webpage : https://sosuke115.github.io
+
 
  
 
