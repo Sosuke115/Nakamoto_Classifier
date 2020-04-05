@@ -7,7 +7,7 @@ In this system, you can choose "Alexnet","VGG11" or "simplenet" as a CNN model.
  
 # DEMO
  
-![demo](https://github.com/Sosuke115/Nakamoto_Classifier/blob/master/image.jpg)
+![demo](https://github.com/Sosuke115/Nakamoto_Classifier/blob/master/image.jpg "")
 
 
  
